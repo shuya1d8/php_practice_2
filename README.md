@@ -5,7 +5,7 @@
 ### トップページ
 home.php
 ### php_practice_1からの変更点
-※元ソースコード>>[php_practice_1](./php_practice_1)
+※元ソースコード>>[php_practice_1](https://github.com/shuya1d8/php_practice_1)
 
 ①ファイルの統合
 
